@@ -1,10 +1,12 @@
 # Tugas Pertemuan 2
 
 Nama : Eka Belandini
+
 NIM : H1D022002
+
 Shift Baru: F
 
-## Proses passing data dari form ke tampilan hasil dalam aplikasi Flutter:
+# Proses passing data dari form ke tampilan hasil dalam aplikasi Flutter:
 # 1.  Form Input (File ui/form_data.dart)
 Di dalam FormData, di gunakan tiga TextField untuk input Nama, NIM, dan Tahun Lahir. Setiap input dikontrol dengan TextEditingController untuk menangani nilai yang dimasukkan.
 a. Mengontrol Input dengan TextEditingController:
